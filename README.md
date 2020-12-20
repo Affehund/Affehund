@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/Affehund?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/Affehund?style=plastic&logo=github)
 
 ### Hi there 👋!
 I' am Affehund. I am making minecraft mods and discord bots.
