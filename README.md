@@ -4,7 +4,6 @@
 I' am Affehund. I am making minecraft mods and discord bots.
 
 <br/>
----
 
 ### Languages
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
@@ -14,7 +13,6 @@ I' am Affehund. I am making minecraft mods and discord bots.
 [<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
 
 <br/>
----
 
 ### IDEs
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>][eclipse]
