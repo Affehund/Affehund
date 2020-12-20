@@ -12,7 +12,7 @@
 [<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
 
-### Programs
+### IDEs
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 
@@ -32,3 +32,11 @@
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Affehund&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[vscode]: https://code.visualstudio.com
+[java]: https://www.java.com
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
+[javascript]: https://www.javascript.com
+[nodejs]: https://nodejs.org
+[eclipse]: https://www.eclipse.org
