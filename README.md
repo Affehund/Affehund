@@ -1,16 +1,20 @@
 ![GitHub followers](https://img.shields.io/github/followers/Affehund?style=social)
 
-### Hi there, I'm Affehund 👋
+### Hi there 👋!
+
+I' am Affehund. I am making minecraft mods and discord bots.
 
 <br/>
 
 ### Languages
 
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>][java]
-[<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
-[<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
+[<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
+
+<br/>
 
 ### IDEs
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>][eclipse]
@@ -33,10 +37,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Affehund&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[vscode]: https://code.visualstudio.com
-[java]: https://www.java.com
-[html]: https://en.wikipedia.org/wiki/HTML
+
 [css]: https://en.wikipedia.org/wiki/CSS
+[html]: https://en.wikipedia.org/wiki/HTML
+[java]: https://www.java.com
 [javascript]: https://www.javascript.com
 [nodejs]: https://nodejs.org
+
 [eclipse]: https://www.eclipse.org
+[vscode]: https://code.visualstudio.com
