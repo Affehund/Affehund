@@ -7,14 +7,14 @@ I' am Affehund. I am making minecraft mods and discord bots.
 ### Languages
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>][java]
+[<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png"/>][java]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
 [<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
 
 <br/>
 
 ### IDEs
-[<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>][eclipse]
+[<img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 
 <br/>
