@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/davidferguson/pibakery-blocks/pull/100) in [davidferguson/pibakery-blocks](https://github.com/davidferguson/pibakery-blocks)
-2. 🗣 Commented on [#11](https://github.com/Buuz135/HotOrNot/issues/11) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-3. 🗣 Commented on [#5](https://github.com/Buuz135/HotOrNot/issues/5) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-4. 🗣 Commented on [#9](https://github.com/Buuz135/HotOrNot/issues/9) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-5. 🗣 Commented on [#11](https://github.com/Buuz135/HotOrNot/issues/11) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+1. ❌ Closed PR [#13](https://github.com/Buuz135/HotOrNot/pull/13) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+2. ❗️ Closed issue [#5](https://github.com/Buuz135/HotOrNot/issues/5) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+3. ❗️ Closed issue [#9](https://github.com/Buuz135/HotOrNot/issues/9) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+4. ❗️ Closed issue [#11](https://github.com/Buuz135/HotOrNot/issues/11) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+5. 💪 Opened PR [#100](https://github.com/davidferguson/pibakery-blocks/pull/100) in [davidferguson/pibakery-blocks](https://github.com/davidferguson/pibakery-blocks)
 <!--END_SECTION:activity-->
 </details>
 
