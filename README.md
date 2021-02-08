@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Affehund/Modding-IDE/pull/2) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-2. 💪 Opened PR [#8](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/8) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
-3. 🎉 Merged PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-4. 💪 Opened PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-5. 🗣 Commented on [#1](https://github.com/Affehund/Skiing/issues/1) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+1. ❌ Closed PR [#2](https://github.com/Affehund/Modding-IDE/pull/2) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+2. 💪 Opened PR [#2](https://github.com/Affehund/Modding-IDE/pull/2) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+3. 💪 Opened PR [#8](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/8) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
+4. 🎉 Merged PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+5. 💪 Opened PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
 <!--END_SECTION:activity-->
 </details>
 
