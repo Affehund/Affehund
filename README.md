@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Affehund/Skiing/issues/1) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
-2. ❗️ Closed issue [#18](https://github.com/Buuz135/HotOrNot/issues/18) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-3. ❗️ Closed issue [#19](https://github.com/Buuz135/HotOrNot/issues/19) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-4. 🗣 Commented on [#19](https://github.com/Buuz135/HotOrNot/issues/19) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
-5. 🗣 Commented on [#18](https://github.com/Buuz135/HotOrNot/issues/18) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+1. 🎉 Merged PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+2. 💪 Opened PR [#1](https://github.com/Affehund/Modding-IDE/pull/1) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+3. 🗣 Commented on [#1](https://github.com/Affehund/Skiing/issues/1) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+4. ❗️ Closed issue [#18](https://github.com/Buuz135/HotOrNot/issues/18) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
+5. ❗️ Closed issue [#19](https://github.com/Buuz135/HotOrNot/issues/19) in [Buuz135/HotOrNot](https://github.com/Buuz135/HotOrNot)
 <!--END_SECTION:activity-->
 </details>
 
