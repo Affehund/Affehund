@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Affehund/Modding-IDE/pull/3) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-2. 💪 Opened PR [#3](https://github.com/Affehund/Modding-IDE/pull/3) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-3. 💪 Opened PR [#18](https://github.com/Railroad-Team/Modding-IDE/pull/18) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
-4. 🎉 Merged PR [#2](https://github.com/Affehund/Modding-IDE/pull/2) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
-5. 💪 Opened PR [#2](https://github.com/Affehund/Modding-IDE/pull/2) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+1. 🎉 Merged PR [#4](https://github.com/Affehund/Modding-IDE/pull/4) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+2. 💪 Opened PR [#4](https://github.com/Affehund/Modding-IDE/pull/4) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+3. 🎉 Merged PR [#3](https://github.com/Affehund/Modding-IDE/pull/3) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+4. 💪 Opened PR [#3](https://github.com/Affehund/Modding-IDE/pull/3) in [Affehund/Modding-IDE](https://github.com/Affehund/Modding-IDE)
+5. 💪 Opened PR [#18](https://github.com/Railroad-Team/Modding-IDE/pull/18) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
 <!--END_SECTION:activity-->
 </details>
 
