@@ -24,10 +24,10 @@ I' am Affehund. I am making minecraft mods and discord bots.
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
-2. 💪 Opened PR [#8](https://github.com/KingRealzYT/SwordsModForge/pull/8) in [KingRealzYT/SwordsModForge](https://github.com/KingRealzYT/SwordsModForge)
-3. 🗣 Commented on [#2](https://github.com/Affehund/Undestroying/issues/2) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
-4. ❗️ Closed issue [#2](https://github.com/Affehund/Undestroying/issues/2) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
-5. 🗣 Commented on [#1](https://github.com/Affehund/Undestroying/issues/1) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
+2. 🗣 Commented on [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
+3. 💪 Opened PR [#8](https://github.com/KingRealzYT/SwordsModForge/pull/8) in [KingRealzYT/SwordsModForge](https://github.com/KingRealzYT/SwordsModForge)
+4. 🗣 Commented on [#2](https://github.com/Affehund/Undestroying/issues/2) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
+5. ❗️ Closed issue [#2](https://github.com/Affehund/Undestroying/issues/2) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
 <!--END_SECTION:activity-->
 </details>
 
