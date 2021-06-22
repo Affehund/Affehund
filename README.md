@@ -23,10 +23,10 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ilja615/FishInPlanks/pull/1) in [ilja615/FishInPlanks](https://github.com/ilja615/FishInPlanks)
-2. 🗣 Commented on [#3](https://github.com/Affehund/Undestroying/issues/3) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
-3. ❗️ Closed issue [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
-4. 🗣 Commented on [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
+1. ❗️ Closed issue [#3](https://github.com/Affehund/Undestroying/issues/3) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
+2. 💪 Opened PR [#1](https://github.com/ilja615/FishInPlanks/pull/1) in [ilja615/FishInPlanks](https://github.com/ilja615/FishInPlanks)
+3. 🗣 Commented on [#3](https://github.com/Affehund/Undestroying/issues/3) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
+4. ❗️ Closed issue [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
 5. 🗣 Commented on [#1](https://github.com/Affehund/BetterPanoramas/issues/1) in [Affehund/BetterPanoramas](https://github.com/Affehund/BetterPanoramas)
 <!--END_SECTION:activity-->
 </details>
