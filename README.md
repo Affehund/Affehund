@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
-2. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
-3. 🗣 Commented on [#1](https://github.com/Affehund/ForgottenRecipes/issues/1) in [Affehund/ForgottenRecipes](https://github.com/Affehund/ForgottenRecipes)
-4. 🗣 Commented on [#1](https://github.com/Affehund/ForgottenRecipes/issues/1) in [Affehund/ForgottenRecipes](https://github.com/Affehund/ForgottenRecipes)
-5. 🎉 Merged PR [#2](https://github.com/Affehund/Skiing/pull/2) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+1. 🎉 Merged PR [#1](https://github.com/Affehund/VoidTotem/pull/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+2. 🗣 Commented on [#1](https://github.com/Affehund/VoidTotem/issues/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+3. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
+4. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
+5. 🗣 Commented on [#1](https://github.com/Affehund/ForgottenRecipes/issues/1) in [Affehund/ForgottenRecipes](https://github.com/Affehund/ForgottenRecipes)
 <!--END_SECTION:activity-->
 </details>
 
