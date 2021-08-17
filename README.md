@@ -23,11 +23,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Affehund/VoidTotem/pull/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-2. 🗣 Commented on [#1](https://github.com/Affehund/VoidTotem/issues/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-3. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
+1. 💪 Opened PR [#8](https://github.com/DaRealTurtyWurty/CommunityMod/pull/8) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
+2. 🎉 Merged PR [#1](https://github.com/Affehund/VoidTotem/pull/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+3. 🗣 Commented on [#1](https://github.com/Affehund/VoidTotem/issues/1) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 4. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
-5. 🗣 Commented on [#1](https://github.com/Affehund/ForgottenRecipes/issues/1) in [Affehund/ForgottenRecipes](https://github.com/Affehund/ForgottenRecipes)
+5. 🗣 Commented on [#1](https://github.com/AllTheMods/ATM-7/issues/1) in [AllTheMods/ATM-7](https://github.com/AllTheMods/ATM-7)
 <!--END_SECTION:activity-->
 </details>
 
