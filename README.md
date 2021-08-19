@@ -1,5 +1,3 @@
-![GitHub Followers](https://img.shields.io/github/followers/Affehund?style=plastic&logo=github)
-
 ### Hi there 👋!
 I' am Affehund. I am making minecraft mods and discord bots.
 <br/>
@@ -40,6 +38,8 @@ I' am Affehund. I am making minecraft mods and discord bots.
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="Affehunds's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Affehund&show_icons=true&hide_border=true&theme=dark"/>
 </details>
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Affehund&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [css]: https://en.wikipedia.org/wiki/CSS
 [html]: https://en.wikipedia.org/wiki/HTML
