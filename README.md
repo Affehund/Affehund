@@ -14,7 +14,7 @@ I' am Affehund. I am making minecraft mods and discord bots.
 [<img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 <br/>
-### Minecraft Mods:
+### Mod
 | Name | Version | Downloads |
 | ----------- | ----------- | ----------- |
 | <a href="https://www.curseforge.com/minecraft/mc-mods/betterpanormas"><img src="http://cf.way2muchnoise.eu/title/452470.svg?badge_style=flat" alt="CF"></a> | <a href="https://www.curseforge.com/minecraft/mc-mods/betterpanormas"><img src="http://cf.way2muchnoise.eu/versions/452470.svg?badge_style=flat" alt="CF"></a> | <a href="https://www.curseforge.com/minecraft/mc-mods/betterpanormas"><img src="http://cf.way2muchnoise.eu/452470.svg?badge_style=flat" alt="CF"></a> |
@@ -40,8 +40,6 @@ I' am Affehund. I am making minecraft mods and discord bots.
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="Affehunds's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Affehund&show_icons=true&hide_border=true&theme=dark"/>
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Affehund&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [css]: https://en.wikipedia.org/wiki/CSS
 [html]: https://en.wikipedia.org/wiki/HTML
