@@ -27,8 +27,8 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Affehund/Undestroying/issues/4) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
-2. ❌ Closed PR [#1](https://github.com/Affehund/CommunityMod/pull/1) in [Affehund/CommunityMod](https://github.com/Affehund/CommunityMod)
+1. 🗣 Commented on [#2](https://github.com/Affehund/VoidTotem/issues/2) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+2. 🗣 Commented on [#4](https://github.com/Affehund/Undestroying/issues/4) in [Affehund/Undestroying](https://github.com/Affehund/Undestroying)
 3. 💪 Opened PR [#1](https://github.com/Affehund/CommunityMod/pull/1) in [Affehund/CommunityMod](https://github.com/Affehund/CommunityMod)
 4. 🎉 Merged PR [#21](https://github.com/DaRealTurtyWurty/CommunityMod/pull/21) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
 5. 💪 Opened PR [#21](https://github.com/DaRealTurtyWurty/CommunityMod/pull/21) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
