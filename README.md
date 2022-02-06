@@ -27,11 +27,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Affehund/VoidTotem/issues/4) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+1. ❗️ Closed issue [#4](https://github.com/Affehund/VoidTotem/issues/4) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 2. 🗣 Commented on [#4](https://github.com/Affehund/VoidTotem/issues/4) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-3. 🎉 Merged PR [#3](https://github.com/Affehund/VoidTotem/pull/3) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-4. 🗣 Commented on [#3](https://github.com/Affehund/VoidTotem/issues/3) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. ❗️ Closed issue [#6](https://github.com/Affehund/Skiing/issues/6) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+3. 🗣 Commented on [#4](https://github.com/Affehund/VoidTotem/issues/4) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+4. 🗣 Commented on [#4](https://github.com/Affehund/VoidTotem/issues/4) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+5. 🎉 Merged PR [#3](https://github.com/Affehund/VoidTotem/pull/3) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
 
