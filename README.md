@@ -28,10 +28,10 @@ I' am Affehund. I am making minecraft mods and discord bots.
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/Affehund/VoidTotem/issues/9) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-2. ❗️ Closed issue [#8](https://github.com/Affehund/VoidTotem/issues/8) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-3. 🗣 Commented on [#8](https://github.com/Affehund/VoidTotem/issues/8) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+2. 🗣 Commented on [#9](https://github.com/Affehund/VoidTotem/issues/9) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+3. ❗️ Closed issue [#8](https://github.com/Affehund/VoidTotem/issues/8) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 4. 🗣 Commented on [#8](https://github.com/Affehund/VoidTotem/issues/8) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. ❗️ Closed issue [#5](https://github.com/Affehund/VoidTotem/issues/5) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+5. 🗣 Commented on [#8](https://github.com/Affehund/VoidTotem/issues/8) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
 
