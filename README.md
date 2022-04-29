@@ -28,10 +28,10 @@ I' am Affehund. I am making minecraft mods and discord bots.
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-2. 🎉 Merged PR [#1](https://github.com/Affehund/InvisibilityCloak/pull/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
-3. 🗣 Commented on [#1](https://github.com/Affehund/InvisibilityCloak/issues/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
-4. 🎉 Merged PR [#13](https://github.com/Affehund/VoidTotem/pull/13) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. 🗣 Commented on [#13](https://github.com/Affehund/VoidTotem/issues/13) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+2. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+3. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+4. 🎉 Merged PR [#1](https://github.com/Affehund/InvisibilityCloak/pull/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
+5. 🗣 Commented on [#1](https://github.com/Affehund/InvisibilityCloak/issues/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
 <!--END_SECTION:activity-->
 </details>
 
