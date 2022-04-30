@@ -30,8 +30,8 @@ I' am Affehund. I am making minecraft mods and discord bots.
 1. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 2. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 3. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-4. 🎉 Merged PR [#1](https://github.com/Affehund/InvisibilityCloak/pull/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
-5. 🗣 Commented on [#1](https://github.com/Affehund/InvisibilityCloak/issues/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
+4. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+5. 🎉 Merged PR [#1](https://github.com/Affehund/InvisibilityCloak/pull/1) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
 <!--END_SECTION:activity-->
 </details>
 
