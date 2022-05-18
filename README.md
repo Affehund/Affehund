@@ -27,10 +27,10 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Affehund/Skiing/issues/3) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
-2. ❗️ Closed issue [#1](https://github.com/Affehund/Skiing/issues/1) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
-3. 🗣 Commented on [#2](https://github.com/Affehund/InvisibilityCloak/issues/2) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
-4. 🗣 Commented on [#15](https://github.com/Affehund/VoidTotem/issues/15) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+1. 🗣 Commented on [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+2. ❗️ Closed issue [#3](https://github.com/Affehund/Skiing/issues/3) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+3. ❗️ Closed issue [#1](https://github.com/Affehund/Skiing/issues/1) in [Affehund/Skiing](https://github.com/Affehund/Skiing)
+4. 🗣 Commented on [#2](https://github.com/Affehund/InvisibilityCloak/issues/2) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
 5. 🗣 Commented on [#15](https://github.com/Affehund/VoidTotem/issues/15) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
