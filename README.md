@@ -27,11 +27,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Affehund/VoidTotem/issues/16) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-2. ❗️ Closed issue [#2](https://github.com/Affehund/InvisibilityCloak/issues/2) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
-3. ❗️ Closed issue [#16](https://github.com/Affehund/VoidTotem/issues/16) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-4. 🗣 Commented on [#16](https://github.com/Affehund/VoidTotem/issues/16) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. ❗️ Closed issue [#14](https://github.com/Affehund/VoidTotem/issues/14) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+1. 💪 Opened PR [#12](https://github.com/illusivesoulworks/charmofundying/pull/12) in [illusivesoulworks/charmofundying](https://github.com/illusivesoulworks/charmofundying)
+2. 🗣 Commented on [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+3. 🗣 Commented on [#16](https://github.com/Affehund/VoidTotem/issues/16) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+4. ❗️ Closed issue [#2](https://github.com/Affehund/InvisibilityCloak/issues/2) in [Affehund/InvisibilityCloak](https://github.com/Affehund/InvisibilityCloak)
+5. ❗️ Closed issue [#16](https://github.com/Affehund/VoidTotem/issues/16) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
 
