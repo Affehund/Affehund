@@ -27,11 +27,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BrassMC/.github/pull/1) in [BrassMC/.github](https://github.com/BrassMC/.github)
-2. ❗️ Closed issue [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-3. 🗣 Commented on [#12](https://github.com/illusivesoulworks/charmofundying/issues/12) in [illusivesoulworks/charmofundying](https://github.com/illusivesoulworks/charmofundying)
-4. 🗣 Commented on [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. ❗️ Reopened issue [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+1. 💪 Opened PR [#3](https://github.com/BrassMC/BrassLoader/pull/3) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 💪 Opened PR [#1](https://github.com/BrassMC/.github/pull/1) in [BrassMC/.github](https://github.com/BrassMC/.github)
+3. ❗️ Closed issue [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
+4. 🗣 Commented on [#12](https://github.com/illusivesoulworks/charmofundying/issues/12) in [illusivesoulworks/charmofundying](https://github.com/illusivesoulworks/charmofundying)
+5. 🗣 Commented on [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
 
