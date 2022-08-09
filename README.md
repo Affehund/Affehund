@@ -27,11 +27,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/BrassMC/BrassLoader/pull/4) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-2. 💪 Opened PR [#3](https://github.com/BrassMC/BrassLoader/pull/3) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-3. 💪 Opened PR [#1](https://github.com/BrassMC/.github/pull/1) in [BrassMC/.github](https://github.com/BrassMC/.github)
-4. ❗️ Closed issue [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
-5. 🗣 Commented on [#12](https://github.com/illusivesoulworks/charmofundying/issues/12) in [illusivesoulworks/charmofundying](https://github.com/illusivesoulworks/charmofundying)
+1. 💪 Opened PR [#5](https://github.com/BrassMC/BrassLoader/pull/5) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 💪 Opened PR [#4](https://github.com/BrassMC/BrassLoader/pull/4) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+3. 💪 Opened PR [#3](https://github.com/BrassMC/BrassLoader/pull/3) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+4. 💪 Opened PR [#1](https://github.com/BrassMC/.github/pull/1) in [BrassMC/.github](https://github.com/BrassMC/.github)
+5. ❗️ Closed issue [#17](https://github.com/Affehund/VoidTotem/issues/17) in [Affehund/VoidTotem](https://github.com/Affehund/VoidTotem)
 <!--END_SECTION:activity-->
 </details>
 
