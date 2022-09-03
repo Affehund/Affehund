@@ -27,11 +27,11 @@ I' am Affehund. I am making minecraft mods and discord bots.
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/BrassMC/BrassLoader/pull/13) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-2. 🗣 Commented on [#12](https://github.com/BrassMC/BrassLoader/issues/12) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+1. 💪 Opened PR [#15](https://github.com/BrassMC/BrassLoader/pull/15) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 💪 Opened PR [#13](https://github.com/BrassMC/BrassLoader/pull/13) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 3. 🗣 Commented on [#12](https://github.com/BrassMC/BrassLoader/issues/12) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-4. 💪 Opened PR [#12](https://github.com/BrassMC/BrassLoader/pull/12) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-5. 💪 Opened PR [#6](https://github.com/BrassMC/BrassLoader/pull/6) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+4. 🗣 Commented on [#12](https://github.com/BrassMC/BrassLoader/issues/12) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+5. 💪 Opened PR [#12](https://github.com/BrassMC/BrassLoader/pull/12) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 </details>
 
